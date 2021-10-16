@@ -1,0 +1,4 @@
+Vladislav - LADIIN - 81dc9bdb52d04dc20036dbd8313ed055 - vlad@gmail.com - ADMIN
+Pavel - Paul - 81dc9bdb52d04dc20036dbd8313ed055 - pavl@gmail.com - USER
+Kirill - kirill0 - 827ccb0eea8a706c4c34a16891f84e7b - kirill@gmail.com - USER
+Admin - admin - 21232f297a57a5a743894a0e4a801fc3 - admin@gmail.com - ADMIN
